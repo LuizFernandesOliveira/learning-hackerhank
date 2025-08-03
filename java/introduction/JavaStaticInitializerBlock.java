@@ -1,4 +1,4 @@
-class JavaStaticInitializerBlocker {
+class JavaStaticInitializerBlock {
     static Scanner scan = new Scanner(System.in);
     static boolean flag = false;
     static int B = scan.nextInt();
