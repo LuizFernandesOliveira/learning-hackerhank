@@ -7,6 +7,7 @@ public class JavaStringReverse {
         
         Scanner sc=new Scanner(System.in);
         String A=sc.next();
+        sc.close();
         /* Enter your code here. Print output to STDOUT. */
         String Areverse = new StringBuilder().append(A).reverse().toString();
         
