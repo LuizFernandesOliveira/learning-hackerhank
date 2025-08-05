@@ -4,7 +4,7 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 
-public class JavaSubstring {
+public class Substring {
 
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
