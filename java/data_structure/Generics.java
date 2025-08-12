@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class JavaGenerics {
+public class Generics {
 
     public static void main(String[] args) {
         String[] texts = {"Hello", "World"};
